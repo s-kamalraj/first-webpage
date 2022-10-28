@@ -1,0 +1,66 @@
+.sub-button{
+    background-color: rgb(204, 0, 0);
+    color: white;
+    border-style: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 2px;
+    margin-right: 10px;
+}
+.join{
+    background-color: white;
+    color: rgb(85, 170, 219);
+    border-color: rgb(85, 170, 219);
+    border-style: solid;
+    border-width: 1px;
+    margin-right: 10px;
+    padding-top: 8px;
+    padding-bottom: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+   }
+   .tweet{
+    background-color: rgb(110, 186, 248);
+    border-style: none;
+    color: white;
+    border-radius: 15px;
+    padding-top: 8px;
+    padding-bottom: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.stretch{
+ background-color: rgb(58, 206, 58);
+color: white;
+border: none;
+cursor: pointer;
+transition: 1.5s; 
+}
+.stretch:hover{
+padding-left: 15px;
+padding-right: 15px;
+padding-top: 10px;
+padding-bottom: 10px;
+transition: 1.5s;
+}
+.shadow{
+background-color: rgb(58, 206, 58);
+color: white;
+border: none;
+cursor: pointer;
+box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);   
+}
+.shadow:active{
+margin-top: 3px;
+margin-left: 3px;
+box-shadow: none;
+transition: 0.5s;
+
+}
+
+
+   
